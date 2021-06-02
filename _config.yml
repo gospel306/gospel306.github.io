@@ -14,44 +14,39 @@ urls:
       url: /about
     - text: Blog
       url: /blog
-    - text: Gallery
-      url: /gallery
-    - text: Shop
-      url : /shop
-    - text: Contact
-      url : /contact
 
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
-author_location: India
-author_website_url: "https://sujaykundu.com"
-typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
+author: Dong Wook Kim
+author_bio: Hi, my name is Dong Wook Kim. I am backend developer.
+author_email: "gospel306@gmail.com"
+author_location: South Korea
+typewrite-text: 최선을 다하는 백엔드 개발자입니다.
 
 # Experiences
 author_work_experiences:
-            - company_name: Google
+            - company_name: Sweetk
               company_logo: google.png
-              company_url: https://google.com
+              company_url: https://www.sweetk.co.kr
               designation: Software Engineer
-              description: Worked on various Google Products
-              visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+              description: Worked on various Sweetk Products
               visibility: true
 
 # Education
 author_education_details:
               - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
+                college_name: 42Seoul
+                college_url: https://42seoul.kr/
+                description: 
+              - college_logo: mit.png
+                college_name: 삼성 청년 소프트웨어 아카데미(SSAFY)
+                college_url: https://www.ssafy.com/
+                description: 수료
+              - college_logo: mit.png
+                college_name: 한밭대학교
+                college_url: https://www.hanbat.ac.kr/
                 college_degree: CS Engineer
                 description: Bachelor of Technology
                 visibility: true
@@ -87,10 +82,7 @@ flickr_username: johndoe
 hyvor_talk_website_id: 476
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
-
-# mailchimp embedded form url (newsletter):
-mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
+wakatime_username: gospel306
 
 # contact form - (choose formspress or getform)
 getform_endpoint: 83b703c3-9e47-4df4-ac55-e24d7eb02abc
