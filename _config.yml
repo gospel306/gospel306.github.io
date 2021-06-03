@@ -59,7 +59,12 @@ author_education_details:
                 college_degree: 컴퓨터공학
                 description: 학사 졸업
                 visibility: true
-
+# Certificate    
+author_certificate_details:
+              - certificate_title: Sqld
+                certificate_issuer: 한국데이터진흥원
+                certificate_date: 2020.12
+                visibility: true
 # Projects
 author_project_details:
               - project_thumbnail: gamershub.png
