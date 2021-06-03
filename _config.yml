@@ -44,12 +44,15 @@ author_education_details:
                 college_name: 42Seoul
                 college_url: https://42seoul.kr/
                 description: 
+                visibility:
               - college_logo: mit.png
                 college_name: 삼성 청년 소프트웨어 아카데미(SSAFY)
                 college_url: https://www.ssafy.com/
                 description: 수료
+                visibility: true
               - college_logo: mit.png
                 college_name: 한밭대학교
+                college_term: 2013.03 ~ 2019.02
                 college_url: https://www.hanbat.ac.kr/
                 college_degree: CS Engineer
                 description: Bachelor of Technology
