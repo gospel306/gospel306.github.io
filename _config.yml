@@ -1,5 +1,5 @@
-title: devlopr
-subtitle: A Portfolio Jekyll Theme Built for Developers
+title: dongwkim
+subtitle: Welcome to Dong Wook's portfolio site
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
@@ -61,7 +61,8 @@ author_education_details:
                 visibility: true
 # Certificate    
 author_certificate_details:
-              - certificate_title: Sqld
+              - certificate_logo: sqld.jpeg
+                certificate_title: Sqld
                 certificate_issuer: 한국데이터진흥원
                 certificate_term: 2020.12
                 visibility: true
