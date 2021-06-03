@@ -63,7 +63,7 @@ author_education_details:
 author_certificate_details:
               - certificate_title: Sqld
                 certificate_issuer: 한국데이터진흥원
-                certificate_date: 2020.12
+                certificate_term: 2020.12
                 visibility: true
 # Projects
 author_project_details:
