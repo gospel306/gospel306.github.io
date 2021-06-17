@@ -4,14 +4,14 @@ title:  "소프트웨어 생명 주기"
 summary: "요구사항 확인"
 author: dongwkim
 date: '2021-06-16 10:30:00'
-category: 정보처리기사
+category: ['정보처리기사', '요구사항확인']
 keywords: 정보처리기사, 요구사항확인
 permalink: /blog/정보처리기사/요구사항확인/소프트웨어_생명_주기
 thumbnail: /blog/정보처리기사/요구사항확인/thumbnail1.png
 usemathjax: true
 ---
 
-# 요구사항 확인
+# 요구사항 확인(1)
 
 ## 소프트웨어 생명 주기
 
