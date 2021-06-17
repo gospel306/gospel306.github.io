@@ -6,7 +6,8 @@ author: dongwkim
 date: '2021-06-16 10:30:00'
 category: 정보처리기사
 keywords: 정보처리기사, 요구사항확인
-permalink: /blog/정보처리기사/요구사항확인/
+permalink: /blog/정보처리기사/요구사항확인/소프트웨어_생명_주기
+thumbnail: /blog/정보처리기사/요구사항확인/thumbnail1.png
 usemathjax: true
 ---
 
@@ -25,7 +26,7 @@ usemathjax: true
 
 ### 폭포수 모형 (Waterfall Model)
 
-![waterfall_model](./waterfall_model.png){: width="100%" height="100%"}
+![waterfall_model](../waterfall_model.png){: width="100%" height="100%"}
 
 * 타당성 조사
   - 문제점 파악 및 방안을 제시하여 비용 대비 이익 평가
@@ -72,7 +73,7 @@ usemathjax: true
 ### 프로토타입 모형 (Prototype Model, 원형 모형)
 실제 개발될 소프트웨어 견본품을 만들어 최종 결과물을 예측하는 모형
 
-![prototype_model](./prototype_model.png){: width="100%" height="100%"}
+![prototype_model](../prototype_model.png){: width="100%" height="100%"}
 
 * 프로토타입 모형의 특징
   - 사용자 중심의 프로세스 모델
@@ -95,7 +96,7 @@ usemathjax: true
 ### 나선형 모델 (Spiral Model, 점진적 모형)
 여러번의 소프트웨어 개발 과정을 거쳐 점진적으로 개발하는 모형
 
-![spiral_model](./spiral_model.png){: width="100%" height="100%"}
+![spiral_model](../spiral_model.png){: width="100%" height="100%"}
 
 * 장점
   - 위험 관리로 인해 위험성이 큰 프로젝트를 수행 할 수 있음
@@ -110,7 +111,7 @@ usemathjax: true
 ### 애자일 모형 (Agile Model)
 요구사항 변화에 유연하게 대응할 수 있도록 일정한 주기를 반복하면서 개발하는 모형
 
-![agile_model](./agile_model.png){: width="100%" height="100%"}
+![agile_model](../agile_model.png){: width="100%" height="100%"}
 
 * 어느 특정 개발 방법론이 아니라 좋은 것을 빠르고 낭비 없게 만들기 위해 고객과의 소통에 초점을 맞춘 방법론
 * 기업 활동 전반에 걸쳐 사용됨
