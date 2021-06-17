@@ -4,8 +4,7 @@ layout: post
 summary: 블로그의 시작
 author: dongwkim
 date: '2021-06-03 14:24:25'
-category:
-- life
+category: ['life']
 tags: []
 usemathjax: false
 permalink: "/blog/start-new-blog/"

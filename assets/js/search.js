@@ -9,7 +9,6 @@ $(document).ready(function() {
             <a class='search-results__item__title' href='{{link}}'>{{title}}</a>\
             <span class='post__date'>{{pubDate}}</span>\
           </div>";
-
     toggle_search.click(function(event) {
       event.preventDefault();
       $('.search-form-container').addClass('is-active');
