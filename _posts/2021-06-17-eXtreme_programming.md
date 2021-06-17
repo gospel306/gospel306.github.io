@@ -3,7 +3,7 @@ layout: post
 title:  "XP(eXtreme Programming) 기법"
 summary: "요구사항 확인"
 author: dongwkim
-date: '2021-06-17 10:30:00'
+date: '2021-06-17 10:00:00'
 category: ['정보처리기사', '요구사항확인']
 keywords: 정보처리기사, 요구사항확인
 permalink: /blog/정보처리기사/요구사항확인/XP
