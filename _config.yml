@@ -98,8 +98,8 @@ hyvor_talk_website_id: 476
 wakatime_username: gospel306
 
 # contact form - (choose formspress or getform)
-getform_endpoint: 83b703c3-9e47-4df4-ac55-e24d7eb02abc
-formspree_email: johndoe@gmail.com
+getform_endpoint: 1995560e-c052-44ca-8c8f-4408559e2007
+formspree_email: gospel306@gmail.com
 
 # releases - widget can be (sidebar, modal or embed)
 olvy_organization: devlopr
