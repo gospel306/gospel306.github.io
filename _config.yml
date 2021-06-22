@@ -69,6 +69,7 @@ author_project_details:
               - project_thumbnail: awesome_place.jpeg
                 project_title: Awesome Place
                 project_description: 위치 서비스를 사용하여 주변 관광지 추천 서비스
+                project_url: https://github.com/gospel306/webproject
                 visibility: true
 
 # social links
