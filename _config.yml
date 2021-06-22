@@ -66,6 +66,16 @@ author_certificate_details:
                 visibility: true
 # Projects
 author_project_details:
+              - project_thumbanil: 아이디어.jpeg
+                project_title: A.I Dear
+                project_description: 언택트시대에 알맞은 아이디어, 재능 오픈 플랫폼
+                project_url: https://github.com/gospel306/kfqwebsite
+                visibility: true
+              - project_thumbnail: 신한헤커톤.png
+                project_title: Triffy
+                project_description: 해외 여행 전, 중, 후에 따른 고객 니즈 만족을 위한 서비스
+                project_url: https://github.com/gospel306/Triffy
+                visibility: true
               - project_thumbnail: awesome_place.jpeg
                 project_title: Awesome Place
                 project_description: 위치 서비스를 사용하여 주변 관광지 추천 서비스
