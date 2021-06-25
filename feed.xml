@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dongwkim의 개발공부블로그</title>
+    <description>프로그래밍을 공부하고 내용을 기록하는 곳입니다. 포트폴리오는 제가 지금까지 해왔던것을 간략히 작성했습니다.</description>
+    <link>https://gospel306.github.io/</link>
+    <atom:link href="https://gospel306.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 25 Jun 2021 12:50:56 +0000</pubDate>
+    <lastBuildDate>Fri, 25 Jun 2021 12:50:56 +0000</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
+
+    
+      <item>
+        <title>42seoul</title>
+        <description>&lt;h1 id=&quot;앞선-이야기&quot;&gt;앞선 이야기&lt;/h1&gt;
+
+&lt;p&gt;42서울에 들어간지 꽤 오랜시간이 지난 후에 쓰는 글이다.&lt;/p&gt;
+
+&lt;p&gt;그리고 이글은 전형적인 주관적인 관점에서 얘기함으로 알아서 판단하길 바란다.&lt;/p&gt;
+
+&lt;p&gt;기록을 한다는게 부담스러워서 안 썻었는데 조금 기억이 왜곡이 됬을수도 있다는것을 참고한다.
+&lt;br /&gt;&lt;/p&gt;
+&lt;h1 id=&quot;지원배경&quot;&gt;지원배경&lt;/h1&gt;
+
+&lt;p&gt;컴퓨터공학을 졸업 후, 삼성 청년 소프트웨어 아카데미에 있었는데 노력에도 불구하고 취업을 못하여 지원하게된 케이스이다. 그래서 싸피에 있을때 싸피가 에꼴42를 모티브로 만들어진 교육이라는 것을 들었었고 때마침 내가 수료할 때쯤 42서울이 들어왔었다. 취업을 못 할수도 있으니 일단 지원해서 2기로 들어오게 되었다. (내가 온라인 테스트를 좀 늦게 봤었다.)&lt;/p&gt;
+
+&lt;h1 id=&quot;42서울&quot;&gt;42서울&lt;/h1&gt;
+
+&lt;p&gt;42서울은 수업, 교수, 책이 없는 교육이다. 
+그럼 의문점이 생길 것이다. 과연 어떻게 배울까? 아래 글에 해답을 준다.&lt;/p&gt;
+
+&lt;h2 id=&quot;수업이-없는데-언제-공부하는-것인가&quot;&gt;수업이 없는데 언제 공부하는 것인가?&lt;/h2&gt;
+&lt;p&gt;교육장은 24시간 개방하고 스스로 공부하는 것이다. 교육장은 컴퓨터가 다 맥으로 되어있고 인프라가 잘 되어있다.&lt;/p&gt;
+
+&lt;h2 id=&quot;누가-가르칠까&quot;&gt;누가 가르칠까?&lt;/h2&gt;
+&lt;p&gt;같은 교육생들이 서로 알아서 공부하고 아는것을 공유하는 교육이다. 처음에는 혼자시작을 한다.(나도 그랬다.) 그러다 혼자 해결하기 힘들면 주변에 물어보고 답을 주며 서로 소통하게 끔한다.&lt;/p&gt;
+
+&lt;h2 id=&quot;책이-없는데-무엇으로-배우는가&quot;&gt;책이 없는데 무엇으로 배우는가?&lt;/h2&gt;
+&lt;p&gt;커리큘럼으로 과제를 받게된다. 그저 짧은 subject pdf파일을 열람하여 거기에 적혀있는 요구사항을 충족시켜 과제를 완성하는 것이다.&lt;/p&gt;
+
+&lt;h2 id=&quot;누가-채점하는가&quot;&gt;누가 채점하는가?&lt;/h2&gt;
+&lt;p&gt;교육생들이 채점을 한다. 채점자들은 코드를 보고 맞는지 틀린지 판단하고 더 나아가 어떻게 과제를 접근했는지 어떻게 구현했는지 코드리뷰를 하면서 피드백을 한다. 채점자는 다양하다. 만약 채점자가 아직 접하지 않은 과제일 경우 더 물어보게 된다.(앞으로 구현을 해야하니까.)&lt;/p&gt;
+
+&lt;h2 id=&quot;그외의-특징은&quot;&gt;그외의 특징은?&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;교육 지원금으로 100만원씩 준다.(대신 8.8% 세금을 내고 91.2만원을 받는다.)&lt;/li&gt;
+  &lt;li&gt;채용설명회가 있다.&lt;/li&gt;
+  &lt;li&gt;멘토링시스템으로 실무자들한테 배울수 있다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;details&gt;
+	&lt;summary&gt;사실은...&lt;/summary&gt;
+&lt;div&gt;
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;내가 지원되는것을 많이 안 겪어봤다.(취업해서...) 그저 과제만 풀었을뿐. 그래서 지원이 얼만큼 있는지는 모른다. 지원금도 취업하고서 끊었기에...
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h1 id=&quot;지원방법&quot;&gt;지원방법&lt;/h1&gt;
+&lt;h2 id=&quot;온라인-테스트&quot;&gt;온라인 테스트&lt;/h2&gt;
+&lt;p&gt;온라인 테스트는 아래 이미지클릭시 들어가지는 사이트에서 상시로 진행할 수 있다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://42seoul.kr&quot;&gt;&lt;img src=&quot;./42seoul/42서울.png&quot; alt=&quot;42서울&quot; width=&quot;100%&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;기억력 테스트와 논리력 테스트, 두가지로 이루어진다.
+전자는 5분이면 끝나지만 논리력은 2시간 진행이 된다.기억력 테스트는 어디까지 갔는지 기억이 안난다.(이 글을 쓰기 1년반 전이다.) 논리력 테스트는 level 12쯤에서 끝났다.(중간에 귀찮아서 끈건 안 비밀)&lt;/p&gt;
+
+&lt;h2 id=&quot;체크인-미팅&quot;&gt;체크인 미팅&lt;/h2&gt;
+&lt;p&gt;체크인 미팅은 메일 오는데로 신청을 할려고 들어갔었는데 이미 다차서 예약을 할 수밖에 없었다. 그때 내가 예약을 했을때 600번때 기약없이 무작정 기다렸다. (이때 공백기에는 다른 국비지원교육을 듣고 한편으로는 계속 취업준비를 하고 있었다.) 그러다 갑자기 여름에 메일이 왔었다. 2기 체크인 자리가 나서 2일안에 답을 달라는 메일이 왔었다. 이런일도 있으니 메일은 자주 확인하자.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;./42seoul/추가합격.png&quot; alt=&quot;추가합격&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;라피신&quot;&gt;라피신&lt;/h2&gt;
+
+&lt;p&gt;들어오면 완전당황을 하게된다. 일단 처음에는 관계자분들이 친절하게 42서울 등록을 해주고 임시카드를 준다. 그리고 엘러베이터를 올라가면 된다고 한다. 엄청 많은 맥들 중 하나에 앉아 아이디와 비밀번호를 알려주는 이메일을 기다리게 된다. 좀 지나도 안오면 보컬분들께 물어보면 바로 아이디와 비밀번호를 알려준다. 그리고 이제 시작이다. 근데 이제 무엇을 할지 모른다. 눈에 띈건 동영상 3개정도 있는데 프랑스어다.(영어 번역이 있을것이다.) 그리고는 모른다. 그럼 주변에 물어봐라. 보컬들은 이제 안 알려줄것이다. 스스로 찾아야 하는 피시너가 된 것이다.&lt;/p&gt;
+
+&lt;p&gt;그러면서 한달동안 라피신을 하게된다. 과제를 하나씩 풀어야 하고 금요일마다 시험에 주말은 팀프로젝트가 기다려져 있다. 느낀건 과제들을 얼마나 많이 풀었는지가 중요한게 아니다. 얼만큼 습득을하고 다른 사람들과 소통을 하여 팀프로젝트를 해결했으며 시험을 통과했는지가 본과정에 들어가는 핵심이라고 생각한다.(출석해서 얼마나 많은 시간을 클러스터에 있었는지도 중요한듯) 마지막 파이널 시험은 총 8시간을 준다.(점심 먹을것은 따로 주면 시간 스탑은 없다.)&lt;/p&gt;
+
+&lt;p&gt;마지막 시험은 컨디션 난조로 많이 풀진 못했다. 절반 이상은 풀었지만 불안했었다.&lt;/p&gt;
+
+&lt;p&gt;이렇게 끝내고 내 경험에는 코로나로 인해 마지막 시험은 결과가 많이 늦게 나왔다. 거의 한달 이후에 결과가 나왔다. 피신은 7월 중순에 시작해서 8월에 끝나고 9월 말에 통과메일이 와서 거의 10월에 시작을 했다.&lt;/p&gt;
+
+&lt;h2 id=&quot;ssafy와의-차이&quot;&gt;SSAFY와의 차이&lt;/h2&gt;
+
+&lt;p&gt;싸피와는 확연한 차이는 분명하다.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;비교&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;SSAFY&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;42Seoul&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;입과 프로세스&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;서류 + 인적성 + 면접&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;온라인 알고리즘적 사고테스트 + 체크인(선착순) + 라피신(1개월)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;교육기간&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;최대 1년&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;최대 2년&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;교육방식&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;1학기 프로그래밍언어 교육(5개월) +&lt;br /&gt;1학기 취업지원(1개월)&lt;br /&gt;2학기 팀프로젝트(5개월)&lt;br /&gt;2학기 취업지원(1개월)&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;처음 3개월정도의 기간을 주어지고 과제를 풀때마다 각기 다른 일수를 취득&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;교육 지원 요건&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;4년제 대학 졸업 및 30세 미만 취준생&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;고들학교 졸업 이상자 학생, 청년, 구직자&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;지원금&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;월 100만원(세금 제함없이) + 성과금(개인성적, 팀프로젝트 순위등등)&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;월 100만원(8.8% 세금 공제를 함)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;어떤 사람이 잘 어울리나(개인적 생각)&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;난 대학교 처럼 누군가 가르쳐 주는 사람이 필요하다.&lt;br /&gt;공부하는 습관을 기르고 싶다.&lt;br /&gt;나를 통제를 못하니 통제하는 시스템이 필요하다.&lt;br /&gt;삼성의 시스템을 느끼고 싶다.&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;혼자 부딫히면서 동료학습 위주로 하고싶다.&lt;br /&gt;공부를 강제로 시키는 것을 싫어한다.(남을려면 스스로가 공부하게됨)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;두개 다 좋은 교육 프로세스고 배달의 민족의 우아한테크코스나 네이버의 부스트캠프도 있다.&lt;/p&gt;
+
+&lt;p&gt;요즘에는 k-digital training이라고 카카오등 여러 IT기업등이 국비교육에 뛰어들고 있어 질 좋은 교육이 많아졌다. 한 교육에 국한되지말고 많은 교육중에 자신이 필요하다고 느껴지고 성장할것 같은 교육을 택해서 들어가라. 하지만 모든 교육은 취업을 위해 만들어진 것이기에 실력만 있다면 취직을 하는 것이 좋다.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 22 Jun 2021 10:00:00 +0000</pubDate>
+        <link>https://gospel306.github.io/blog/42seoul</link>
+        <guid isPermaLink="true">https://gospel306.github.io/blog/42seoul</guid>
+      </item>
+    
+      <item>
+        <title>현행 시스템 파악 및 개발 기술 환경 파악</title>
+        <description>&lt;h1 id=&quot;요구사항-확인-4&quot;&gt;요구사항 확인 (4)&lt;/h1&gt;
+
+&lt;h2 id=&quot;현행-시스템-파악&quot;&gt;현행 시스템 파악&lt;/h2&gt;
+
+&lt;h3 id=&quot;현행-시스템-파악-절차&quot;&gt;현행 시스템 파악 절차&lt;/h3&gt;
+
+&lt;table border=&quot;1px&quot;&gt;
+	&lt;tr&gt;
+		&lt;th&gt;프로세스&lt;/th&gt;
+		&lt;th&gt;현행 시스템&lt;/th&gt;
+		&lt;th&gt;내용&lt;/th&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td rowspan=&quot;3&quot;&gt;1단계&lt;/td&gt;
+		&lt;td&gt;시스템 구성 파악&lt;/td&gt;
+		&lt;td&gt;조직의 주요 업무를 담당하는 기간 업무와 이를 지원하는 지원 업무로 구분하여 기술함&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;시스템 기능 파악&lt;/td&gt;
+		&lt;td&gt;현재 제공하는 기능들을 주요 기능과 하부 기능, 세부 기능으로 구분하여 계층형으로 표기함&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;시스템 인터페이스 파악&lt;/td&gt;
+		&lt;td&gt;단위 업무 시스템 간에 주고받는 데이터의 종류, 형식, 프로토콜, 연계 유형, 주기 등을 명시함&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td rowspan=&quot;2&quot;&gt;2단계&lt;/td&gt;
+		&lt;td&gt;아키텍처 구성 파악&lt;/td&gt;
+		&lt;td&gt;최상위 수준에서 계층별로 표현한 아키텍처 구성도를 작성함&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;소프트웨어 구성 파악&lt;/td&gt;
+		&lt;td&gt;소프트웨어들의 제품명, 용도, 라이선스 적용 방식, 라이선스 수 등을 명시함&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td rowspan=&quot;2&quot;&gt;3단계&lt;/td&gt;
+		&lt;td&gt;하드웨어 구성 파악&lt;/td&gt;
+		&lt;td&gt;단위 업무 시스템들이 운용되는 서버의 주요 사양과 수량, 서버의 이중화 적용 여부를 명시함&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;네트워크 구성 파악&lt;/td&gt;
+		&lt;td&gt;서버의 위치, 서버 간의 네트워크 연결 방식을 네트워크 구성도로 작성함&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;개발-기술-환경-파악&quot;&gt;개발 기술 환경 파악&lt;/h2&gt;
+
+&lt;h3 id=&quot;개발-기술-환경-파악의-개요&quot;&gt;개발 기술 환경 파악의 개요&lt;/h3&gt;
+&lt;p&gt;개발하고자 하는 소프트웨어와 관련된 운영체제(OS), 데이터베이스 관리 시스템(DBMS), 미들웨어등을 선정할 때 고려해야 할 사항을 기술하고, 오픈 소스를 사용할 때 주의해야 할 내용을 제시한다.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;운영체제-os-operating-system&quot;&gt;운영체제 (OS, Operating System)&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;em&gt;컴퓨터 시스템의 자원을 효율적으로 관리하며,&lt;/em&gt;&lt;/strong&gt; 사용자가 &lt;strong&gt;&lt;em&gt;컴퓨터를 편리하고 효율적으로 사용할 수 있도록 환경을 제공하는 소프트웨어&lt;/em&gt;&lt;/strong&gt; 이다.&lt;/li&gt;
+  &lt;li&gt;컴퓨터 사용자와 컴퓨터 하드웨어 간의 인터페이스로서 동작하는 시스템 소프트웨어의 일종이다.&lt;/li&gt;
+  &lt;li&gt;다른 응용 프로그램이 유용한 작업을 할 수 있도록 환경을 제공함.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;운영체제 관련 요구사항 식별 시 고려사항&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;가용성&lt;/li&gt;
+      &lt;li&gt;성능&lt;/li&gt;
+      &lt;li&gt;기술 지원&lt;/li&gt;
+      &lt;li&gt;주변 기기&lt;/li&gt;
+      &lt;li&gt;구축 비용&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;데이터베이스-관리-dbms-database-management-system&quot;&gt;데이터베이스 관리 (DBMS, Database Management System)&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;데이터베이스 관리 시스템은 &lt;strong&gt;&lt;em&gt;사용자와 데이터베이스 사이&lt;/em&gt;&lt;/strong&gt; 에서 사용자의 요규에 따라 &lt;strong&gt;&lt;em&gt;정보를 생성해 주고, 데이터베이스를 관리해 주는 소프트웨어&lt;/em&gt;&lt;/strong&gt; 이다.&lt;/li&gt;
+  &lt;li&gt;기존의 파일 시스템이 갖는 데이터의 종속성과 중복성의 문제를 해결하기 위해 제안된 시스템이다.&lt;/li&gt;
+  &lt;li&gt;모든 응용 프로그램들이 데이터베이스를 공용할 수 있도록 관리한다.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;DBMS 관련 요구사항 식별 시 고려사항&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;가용성&lt;/li&gt;
+      &lt;li&gt;성능&lt;/li&gt;
+      &lt;li&gt;기술 지원&lt;/li&gt;
+      &lt;li&gt;상호 호환성&lt;/li&gt;
+      &lt;li&gt;구축 비용&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;웹-어플리케이션-서버-was-web-application-server&quot;&gt;웹 어플리케이션 서버 (WAS, Web Application Server)&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;사용자의 요구에 따라 변하는 동적인 콘텐츠를 처리하기 위해 사용되는 미들웨어&lt;/li&gt;
+  &lt;li&gt;데이터 접근, 세션 관리, 트랜잭션 관리 등을 위한 라이브러리를 제공함&lt;/li&gt;
+  &lt;li&gt;웹 애플리케이션 서버 관련 요구사항 식별 시 고려사항
+    &lt;ul&gt;
+      &lt;li&gt;가용성&lt;/li&gt;
+      &lt;li&gt;성능&lt;/li&gt;
+      &lt;li&gt;기술지원&lt;/li&gt;
+      &lt;li&gt;구축 비용&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;오픈-소스-open-source&quot;&gt;오픈 소스 (Open Source)&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;오픈 소스는 누구나 별다른 제한 없이 사용할 수 있도록 소스 코드를 공개한 소프트웨어이다.&lt;/li&gt;
+  &lt;li&gt;오픈 소스 라이선스를 만족한다.&lt;/li&gt;
+  &lt;li&gt;오픈 소스 관련 요구사항 식별 시 고려사항
+    &lt;ul&gt;
+      &lt;li&gt;라이선스의 종류&lt;/li&gt;
+      &lt;li&gt;사용자 수&lt;/li&gt;
+      &lt;li&gt;기술의 지속 가능성&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 18 Jun 2021 10:00:00 +0000</pubDate>
+        <link>https://gospel306.github.io/blog/정보처리기사/요구사항확인/시스템&기술파악</link>
+        <guid isPermaLink="true">https://gospel306.github.io/blog/정보처리기사/요구사항확인/시스템&기술파악</guid>
+      </item>
+    
+      <item>
+        <title>XP(eXtreme Programming) 기법</title>
+        <description>&lt;h1 id=&quot;요구사항확인-3&quot;&gt;요구사항확인 (3)&lt;/h1&gt;
+
+&lt;h2 id=&quot;xp-기법&quot;&gt;XP 기법&lt;/h2&gt;
+
+&lt;h3 id=&quot;xp-extreme-programming&quot;&gt;XP (eXtreme Programming)&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;수시로 발생하는 고객의 &lt;strong&gt;&lt;em&gt;요구사항에 유연하게 대응하기 위해 고객의 참여와 개발 과정의 반복을 극대화하여&lt;/em&gt;&lt;/strong&gt; 개발 &lt;strong&gt;&lt;em&gt;생산성을 향상시키는 방법&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;짧고 반복적인 개발 주기, 단순한 설계, 고객의 적극적인 참여를 통해 소프트웨어를 빠르게 개발하는 것을 목적&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;릴리즈의 기간을 짧게 반복하면서 고객의 요구사항 반영에 대한 가시성을 높임&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;XP의 5가지 핵심 가치
+    &lt;ul&gt;
+      &lt;li&gt;의사소통 (Communication): 고객, 개발자, 관리자 간의 의사소통을 중시&lt;/li&gt;
+      &lt;li&gt;단순성 (Simplicity): 설계의 단순하고 명확하게 유지&lt;/li&gt;
+      &lt;li&gt;용기 (Courage): 가능한 빨리 변경된 사항을 반영하여 고객에게 인도한다는 마음으로, 요구사항 및 기술의 변경에 용감하게 대처함&lt;/li&gt;
+      &lt;li&gt;존중 (Respect): 모든 프로젝트 관리자는 팀원의 기여를 존중&lt;/li&gt;
+      &lt;li&gt;피드백 (Feedback): 지속적인 테스트를 통해 피드백을 얻음&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;장점
+    &lt;ul&gt;
+      &lt;li&gt;요구사항이 변해도 일정에 영향이 적다.&lt;/li&gt;
+      &lt;li&gt;작은 프로젝트, 작은 규모의 개발티에 효율적이다.&lt;/li&gt;
+      &lt;li&gt;최소한의 문서로도 지식공유가 저절로 된다.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;단점
+    &lt;ul&gt;
+      &lt;li&gt;대규모 프로젝트에는 적합하지 않다.&lt;/li&gt;
+      &lt;li&gt;안정성이 중요하거나 테스트가 어려운 프로젝트에는 사용이 불가능하다.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;xp-개발-프로세스&quot;&gt;XP 개발 프로세스&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;./XP.png&quot; alt=&quot;XP&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;프로세스&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;내용&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;릴리즈 계획 수립&lt;br /&gt;(Release Planning)&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;* 부분 혹은 전체 개발 완료 시점에 대한 일정을 수립하는 것&lt;br /&gt;* 몇 개의 스토리가 적용되어 부분적으로 기능이 완료된 제품을 제공하는 것&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;이터레이션&lt;br /&gt;(Iteration)&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;실제 개발 작업을 진행하는 과정으로, 보통 1~3주 정도의 기간으로 진행&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;승인 검사&lt;br /&gt;(Acceptance Test)&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;하나의 이터레이션 안에서 부분 완료 제품이 구현되면 수행하는 테스트&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;소규모 릴리즈&lt;br /&gt;(Small Release)&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;요구사항에 유연하게 대응할 수 있도록 릴리즈의 규모를 축소하는 것&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;xp의-12가지-실천사항practice&quot;&gt;XP의 12가지 실천사항(Practice)&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;구분&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;내용&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Planning Programming&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;User story를 이용해서 다음 릴리즈의 범위를 빠르게 결정, 비즈니스 우선순위와 기술적 평가가 결함&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Small/short Releases&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;필요한 기능들만 갖춘 간단한 시스템을 빠르게 제품화함, 2주정도의 짧은 사이클로 자주 새로운 버전 배포&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Metaphor&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;공통의 name system&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Simple design&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;요구사항을 만족시키도록 가능한 단순하게 설계&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Testing&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;개발자 먼저 단위 테스트, 고객은 기능 테스트를 작성하여 요구사항이 모두 반영되었는지 확인&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Refactoring&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;프로그램의 기능을 바꾸지 안고, 중복제거, 커뮤니케이션 향상, 단순화, 유연성 추가 등을 위해 시스템 재구성&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Pair programming&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;다른 사람과 함께 프로그래밍을 수행함으로써 개발에 대한 책임을 공동으로 나눠 갖는 환경을 조성함&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Collective Ownership&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;개발 코드에 대한 권한과 책임을 공동으로 소유함&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;CI&lt;br /&gt;(Continuous integration)&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;모듈 단위로 나눠서 개발된 코드들은 하나의 작업이 마무리 될 때마다 지속적으로 통합됨&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;40-hour week&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;일주일에 40 시간 이상을 일하지 말도록 규칙으로 정하고 2주를 연속으로 오버 타임 하지 않도록 함&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;On-site Customer&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;개발자들의 질문에 즉각 대답해 줄 수 있는 고객을 프로젝트에 풀 타임으로 상주시킴&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Coding standards&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;팀원들 간 커뮤니케이션을 향상시키기 위해서는 코드가 표준화도니 관례에 따라 작성되어야 함&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;기존-개발-방법의-문제점-해결을-위한-xp의-전략&quot;&gt;기존 개발 방법의 문제점 해결을 위한 XP의 전략&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;구분&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;내용&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;관리측면&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;결정은 분산화, XP관리도구로 매트릭 이용, 코칭/트래킹/조정&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;계획측면&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;팀이 개발한 SW의 가치를 최대화, 임베디드 소프트웨어 가능한 적게 투자하고, 빠르게, 가장 가치 있는 기능 부여&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;설계측명&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;* 의사소통 통해 설계, 중복된 코드가 없을것&lt;br /&gt;* 가능한 클래스와 메소드 들은 적게 만들 것&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;개발측면&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;* 지속적인 통함, 수정, 테스트, 배포&lt;br /&gt;복잡한 코드 제고, Pair Program으로 완벽한 코딩&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;테스트측면&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;각 테스트는 다른 부분과 관련이 없어야함&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;기타&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;계획세우기, 작은 시스템 릴리즈, 메타포등 12가지실천사항 병행&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;xp의-도입-시-고려사항&quot;&gt;XP의 도입 시 고려사항&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;
+|구분|고려사항|대응방안|
+|:–|:–|:–|
+|재무관점|요구사항이 빈번히 변경 되어 예산 수립 어려움|개발기간 예측 및 관리로 정확도 향상 프로젝트 관리 기법 합리적 접목|
+|고객관점|개발자 사용자간 공감대 형성 부족하면 생산성 저하|요구사항 적극반영하고 SW를 자주 전달하여 신속 적용으로 고객 만족|
+|내부관점|대규모 프로젝트 수행이 어려움|태스크 단위로 반복에 선택적 정요이 적합|&lt;/p&gt;
+</description>
+        <pubDate>Thu, 17 Jun 2021 10:00:00 +0000</pubDate>
+        <link>https://gospel306.github.io/blog/정보처리기사/요구사항확인/XP</link>
+        <guid isPermaLink="true">https://gospel306.github.io/blog/정보처리기사/요구사항확인/XP</guid>
+      </item>
+    
+      <item>
+        <title>스크럼(Scrum) 기법</title>
+        <description>&lt;h1 id=&quot;요구사항-확인2&quot;&gt;요구사항 확인(2)&lt;/h1&gt;
+
+&lt;h2 id=&quot;스크럼-기법&quot;&gt;스크럼 기법&lt;/h2&gt;
+
+&lt;h3 id=&quot;스크럼&quot;&gt;스크럼&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;팀이 중심이 되어 개발의 효율성을 높이는 기법&lt;/li&gt;
+  &lt;li&gt;팀원 스스로가 스크럼 팀을 구성하고 개발 작업에 관한 모든 것을 스스로 해결할 수 있어야 함&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;스크럼-특징&quot;&gt;스크럼 특징&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;특징&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;내용&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;프로젝트 관리&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;팀 운영 및 프로젝트 관리 중심&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;개발론 부재&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;개발 방법론 부재로, 실무적으로 다른 방법론과 함께 사용&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;수평적 협업&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;수평적 관계 및 팀원간 협업 중시&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;스크럼-구성&quot;&gt;스크럼 구성&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;구성원&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;역할&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;제품 책임자&lt;br /&gt;(PO: Product Owner)&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;* 요구사항이 담긴 백로그(Backlog)를 작성하는 주체&lt;br /&gt;* 이해관계자들 중 개발될 제품에 대한 이해도가 높고, 요구사항을 책임지고 의사를 결정할 사람으로 선정&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;스크럼 마스터&lt;br /&gt;(SM: Scrum Master)&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;스크럼 팀이 스크럼을 잘 수행할 수 있도록 가이드 역할을 수행함&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;개발팀&lt;br /&gt;(DT: Development Team)&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;제품 책임자와 스크럼 마스터를 제외한 모든 팀원으로 제품 개발을 수행함&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;스크럼-개발-프로세스&quot;&gt;스크럼 개발 프로세스&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;./scrum.png&quot; alt=&quot;scrum&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;table border=&quot;1&quot;&gt;
+	&lt;tr&gt;
+		&lt;th&gt;구분&lt;/th&gt;
+		&lt;th&gt;구성&lt;/th&gt;
+		&lt;th&gt;설명&lt;/th&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;th rowspan=&quot;3&quot;&gt;기획&lt;/th&gt;
+		&lt;td&gt;Release Planning&lt;/td&gt;
+		&lt;td&gt;프로젝트에 대한 전반적 기획 및 요구사항 파악&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Backlog Refinerment Meeting&lt;/td&gt;
+		&lt;td&gt;요구사항을 정제하고 백로그 구성&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Sprint Planning&lt;/td&gt;
+		&lt;td&gt;1~4주 단위의 업무(스프린트) 계획 수립&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;th rowspan=&quot;4&quot;&gt;관리&lt;/th&gt;
+		&lt;td&gt;Daily Scrum&lt;/td&gt;
+		&lt;td&gt;현황파악을 위해 매일 15분 내외의 짧은 회의&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Sprint Review&lt;/td&gt;
+		&lt;td&gt;스프린트 완료 시 고객 검토, 피드백&lt;/td&gt;
+	&lt;tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Sprint Retrospective&lt;/td&gt;
+		&lt;td&gt;스프린트 결과에 따른 개선방향 검토&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;th rowspan=&quot;3&quot;&gt;도구&lt;/th&gt;
+		&lt;td&gt;Product Backlog&lt;/td&gt;
+		&lt;td&gt;제품의 기능을 우선순위에 따라 나열 개발 과정에서 끊임 없이 변경됨&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Sprint Backlog&lt;/td&gt;
+		&lt;td&gt;기능, 우선순위에 따른 스프린트 목록&lt;/td&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Burndown Chart&lt;/td&gt;
+		&lt;td&gt;개발 진행 상황을 기록&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;table&gt;
+
+&lt;br /&gt;
+
+### 스크럼 개발 과정
+
+* 스프린트 계획 회의
+* 스프린트
+* 일일 스크럼 회의
+* 스프린트 검토 회의
+* 스프린트 회고
+&lt;/table&gt;&lt;/tr&gt;&lt;/tr&gt;&lt;/tr&gt;&lt;/table&gt;
+</description>
+        <pubDate>Wed, 16 Jun 2021 10:30:00 +0000</pubDate>
+        <link>https://gospel306.github.io/blog/정보처리기사/요구사항확인/스크럼</link>
+        <guid isPermaLink="true">https://gospel306.github.io/blog/정보처리기사/요구사항확인/스크럼</guid>
+      </item>
+    
+      <item>
+        <title>소프트웨어 생명 주기</title>
+        <description>&lt;h1 id=&quot;요구사항-확인1&quot;&gt;요구사항 확인(1)&lt;/h1&gt;
+
+&lt;h2 id=&quot;소프트웨어-생명-주기&quot;&gt;소프트웨어 생명 주기&lt;/h2&gt;
+
+&lt;h3 id=&quot;소프트웨어-생명-주기-software-life-cycle&quot;&gt;소프트웨어 생명 주기 (Software Life Cycle)&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;소프트웨어 생명 주기는 &lt;strong&gt;&lt;em&gt;소프트웨어를 개발하기 위한&lt;/em&gt;&lt;/strong&gt; 설계, 운용, 유지보수등의 &lt;strong&gt;&lt;em&gt;과정을 각 단계별로 나눈 것&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;소프트웨어 개발 단계, 각 단계별 주요 활동, 활동의 결과에 대한 산출물로 표현&lt;/li&gt;
+  &lt;li&gt;대표적인 생명 주기 모형
+    &lt;ul&gt;
+      &lt;li&gt;폭포수 모형&lt;/li&gt;
+      &lt;li&gt;프로토타입 모형&lt;/li&gt;
+      &lt;li&gt;나선형 모형&lt;/li&gt;
+      &lt;li&gt;애자일 모형&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;폭포수-모형-waterfall-model&quot;&gt;폭포수 모형 (Waterfall Model)&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../waterfall_model.png&quot; alt=&quot;waterfall_model&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;타당성 조사
+    &lt;ul&gt;
+      &lt;li&gt;문제점 파악 및 방안을 제시하여 비용 대비 이익 평가&lt;/li&gt;
+      &lt;li&gt;문제를 분석하는데 시간적 제약&lt;/li&gt;
+      &lt;li&gt;타당성 조사 보고서 작성: 문제 정의, 기술적 경제적 타당성, 비용과 날짜 포함&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;요구 분석
+    &lt;ul&gt;
+      &lt;li&gt;문제에 관한 구체적 기술&lt;/li&gt;
+      &lt;li&gt;문제 해결을 위한 대안&lt;/li&gt;
+      &lt;li&gt;시스템의 기능 요구사항&lt;/li&gt;
+      &lt;li&gt;제약사항&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;설계
+    &lt;ul&gt;
+      &lt;li&gt;요구사항 -&amp;gt; 조직화된 구조의 형태&lt;/li&gt;
+      &lt;li&gt;하드웨어 및 시스템 요구 사항
+        &lt;ul&gt;
+          &lt;li&gt;시스템 아키텍처&lt;/li&gt;
+          &lt;li&gt;프로그램 설계&lt;/li&gt;
+          &lt;li&gt;인터페이스 설계&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;개발
+    &lt;ul&gt;
+      &lt;li&gt;실제 프로그램 개발&lt;/li&gt;
+      &lt;li&gt;단위 테스트
+        &lt;ul&gt;
+          &lt;li&gt;테스트 계획&lt;/li&gt;
+          &lt;li&gt;모듈 테스트 방법&lt;/li&gt;
+          &lt;li&gt;테스트 수준&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;통합과 시스템 테스트
+    &lt;ul&gt;
+      &lt;li&gt;요구사항을 만족하는지 확인&lt;/li&gt;
+      &lt;li&gt;개발 현장 직접 테스트 ‘알파 테스트’&lt;/li&gt;
+      &lt;li&gt;실제 사용자 테스트 ‘베타 테스트’&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;이행과 유지보수
+    &lt;ul&gt;
+      &lt;li&gt;수정 유지보수&lt;/li&gt;
+      &lt;li&gt;적응 유지보수&lt;/li&gt;
+      &lt;li&gt;완전 유지보수&lt;/li&gt;
+      &lt;li&gt;예방 유지보수&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;장점
+    &lt;ul&gt;
+      &lt;li&gt;선형 모델로써 단순함과 이해가 편함&lt;/li&gt;
+      &lt;li&gt;체계적 문서화 가능&lt;/li&gt;
+      &lt;li&gt;프로젝트의 진행 상황을 알 수 있음&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;단점
+    &lt;ul&gt;
+      &lt;li&gt;완벽한 문서화를 요구함&lt;/li&gt;
+      &lt;li&gt;변경의 수용이 용이하지 못함&lt;/li&gt;
+      &lt;li&gt;시스템의 동작을 개발 막바지에 확인 가능함&lt;/li&gt;
+      &lt;li&gt;위험 분석을 수행하지 않음&lt;/li&gt;
+      &lt;li&gt;위험 분석을 수행하지 않기 때문에 대형 프로젝트에 적합하지 않음&lt;/li&gt;
+      &lt;li&gt;확장되기가 어려움&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;프로토타입-모형-prototype-model-원형-모형&quot;&gt;프로토타입 모형 (Prototype Model, 원형 모형)&lt;/h3&gt;
+&lt;p&gt;실제 개발될 소프트웨어 견본품을 만들어 최종 결과물을 예측하는 모형&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../prototype_model.png&quot; alt=&quot;prototype_model&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;프로토타입 모형의 특징
+    &lt;ul&gt;
+      &lt;li&gt;사용자 중심의 프로세스 모델&lt;/li&gt;
+      &lt;li&gt;기존 폭포수모델의 피드백 수용에 대한 단점을 보완&lt;/li&gt;
+      &lt;li&gt;고객의 요구사항을 상세히 파악할 수 있음&lt;/li&gt;
+      &lt;li&gt;고객과 의사소통을 진행 할 수 있음&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;장점
+    &lt;ul&gt;
+      &lt;li&gt;제품에 대한 고객의 만족도를 높일 수 있음&lt;/li&gt;
+      &lt;li&gt;의사소통이 원할해 짐&lt;/li&gt;
+      &lt;li&gt;요구사항 수용이 빨라짐&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;단점
+    &lt;ul&gt;
+      &lt;li&gt;프로토타입 개발의 다음 단계로 이동시 폐기 - 비 경제적&lt;/li&gt;
+      &lt;li&gt;반복 진행동안 산출 문서 관리에 소홀&lt;/li&gt;
+      &lt;li&gt;고객이 프로토 타입을 완제품으로 오인하여 불필요하고 과도한 요구를 할 수 있음&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;프로토타입 모델 프로세스 진행시 중요사항
+    &lt;ol&gt;
+      &lt;li&gt;고객에게 프로토타입에 대한 충분한 설명이 필요&lt;/li&gt;
+      &lt;li&gt;프로토타입에 추가할 기능에 대한 타당성과 정확성을 확보해야 함&lt;/li&gt;
+      &lt;li&gt;프로토 탕비 자체로 고객과 소통하고 개선 프로세서를 반복할 수록 문서화를 철저히 해야함&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;나선형-모델-spiral-model-점진적-모형&quot;&gt;나선형 모델 (Spiral Model, 점진적 모형)&lt;/h3&gt;
+&lt;p&gt;여러번의 소프트웨어 개발 과정을 거쳐 점진적으로 개발하는 모형&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../spiral_model.png&quot; alt=&quot;spiral_model&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;장점
+    &lt;ul&gt;
+      &lt;li&gt;위험 관리로 인해 위험성이 큰 프로젝트를 수행 할 수 있음&lt;/li&gt;
+      &lt;li&gt;고객의 요구사항을 보다 더 상세히 적용 할 수 있음&lt;/li&gt;
+      &lt;li&gt;변경되는 요구사항에 대해서 적용이 가능함&lt;/li&gt;
+      &lt;li&gt;완성품에 대한 고객 만족도와 품질이 높음&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;단점
+    &lt;ul&gt;
+      &lt;li&gt;프로젝트 기간이 오래 걸림&lt;/li&gt;
+      &lt;li&gt;반복 단계가 길어질수록 프로젝트 관리가 어려움&lt;/li&gt;
+      &lt;li&gt;‘위험관리’ 전문가가 필요함&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;애자일-모형-agile-model&quot;&gt;애자일 모형 (Agile Model)&lt;/h3&gt;
+&lt;p&gt;요구사항 변화에 유연하게 대응할 수 있도록 일정한 주기를 반복하면서 개발하는 모형&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../agile_model.png&quot; alt=&quot;agile_model&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;어느 특정 개발 방법론이 아니라 좋은 것을 빠르고 낭비 없게 만들기 위해 고객과의 소통에 초점을 맞춘 방법론&lt;/li&gt;
+  &lt;li&gt;기업 활동 전반에 걸쳐 사용됨&lt;/li&gt;
+  &lt;li&gt;대표적인 개발 모형
+    &lt;ul&gt;
+      &lt;li&gt;스크럼(Scrum)&lt;/li&gt;
+      &lt;li&gt;XP(eXtreme Programming)&lt;/li&gt;
+      &lt;li&gt;칸반(Kanban)&lt;/li&gt;
+      &lt;li&gt;Lean&lt;/li&gt;
+      &lt;li&gt;기능 중심 개발(FDD; Feature Driven Development)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;애자일 개발 4가지 핵심 가치
+    &lt;ul&gt;
+      &lt;li&gt;프로세스와 도구 &amp;lt; 개인과 상호작용&lt;/li&gt;
+      &lt;li&gt;문서 &amp;lt; 실행되는 SW&lt;/li&gt;
+      &lt;li&gt;계약 협상 &amp;lt; 고객과 협업&lt;/li&gt;
+      &lt;li&gt;계획 &amp;lt; 변화&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;소프트웨어-공학&quot;&gt;소프트웨어 공학&lt;/h3&gt;
+&lt;p&gt;소프트웨어의 위기를 극복하기 위한 방안으로 연구된 학문&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;소프트웨어 공학의 기본 원칙
+    &lt;ul&gt;
+      &lt;li&gt;현대적인 프로그래밍 기술을 계속적으로 적용해야 함&lt;/li&gt;
+      &lt;li&gt;개발된 소프트웨어의 품질이 유지되도록 지속적으로 검증해야 함&lt;/li&gt;
+      &lt;li&gt;소프트웨어 개발 관련 사항 및 결과에 대한 명확한 기록을 유지해야 함&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 16 Jun 2021 10:30:00 +0000</pubDate>
+        <link>https://gospel306.github.io/blog/정보처리기사/요구사항확인/소프트웨어_생명_주기</link>
+        <guid isPermaLink="true">https://gospel306.github.io/blog/정보처리기사/요구사항확인/소프트웨어_생명_주기</guid>
+      </item>
+    
+      <item>
+        <title>블로그의 시작</title>
+        <description>&lt;p&gt;지금까지 대학 졸업하고 여러 교육을 다니면서 블로그를 해야겠다는 생각을 많이 했지만 시작하기 어려웠다.
+내일 해야지 라는 생각에 미뤄왔었고 이제 들어 블로그를 시작하게 되었다.
+이전에는 티스토리에서 하려고 했지만 깃허브가 내가 지금까지 한 프로젝트를 연동해서 글을 작성할 수 있어서
+이제는 github.io에서 블로그를 만들어 이용할려고 한다.
+아직은 블로그가 빈약하고 시간도 많이 날것 같진 않지만 비정기적으로 42서울과 회사에서 공부한 것들을 적을 예정이다.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 03 Jun 2021 14:24:25 +0000</pubDate>
+        <link>https://gospel306.github.io/blog/start-new-blog/</link>
+        <guid isPermaLink="true">https://gospel306.github.io/blog/start-new-blog/</guid>
+      </item>
+    
+
+    
+      
+        
+      
+    
+      
+        
+          <item>
+            <title>42seoul</title>
+            <description>&lt;h5&gt; Posts by Category : {{ page.title }} &lt;/h5&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+{% for post in site.categories[page.title] %}
+ &lt;li class=&quot;category-posts&quot;&gt;&lt;span&gt;{{ post.date | date_to_string }}&lt;/span&gt; &amp;nbsp; &lt;a href=&quot;{{ post.url }}&quot;&gt;{{ post.title }}&lt;/a&gt;&lt;/li&gt;
+{% endfor %}
+&lt;/div&gt;
+</description>
+            <link>https://gospel306.github.io/blog/categories/42seoul/</link>
+          </item>
+        
+      
+    
+      
+        
+          <item>
+            <title>C</title>
+            <description>&lt;h5&gt; Posts by Category : {{ page.title }} &lt;/h5&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+{% for post in site.categories[page.title] %}
+ &lt;li class=&quot;category-posts&quot;&gt;&lt;span&gt;{{ post.date | date_to_string }}&lt;/span&gt; &amp;nbsp; &lt;a href=&quot;{{ post.url }}&quot;&gt;{{ post.title }}&lt;/a&gt;&lt;/li&gt;
+{% endfor %}
+&lt;/div&gt;
+</description>
+            <link>https://gospel306.github.io/blog/categories/C/</link>
+          </item>
+        
+      
+    
+      
+    
+      
+        
+          <item>
+            <title></title>
+            <description>&lt;h3&gt;  {{ page.title }} &lt;/h3&gt;
+
+&lt;div id=&quot;categories&quot;&gt;
+{% for category in site.categories %}
+  &lt;div class=&quot;category-box&quot; &gt;
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    &lt;div id=&quot;#{{ category_name | slugize }}&quot;&gt;&lt;/div&gt;
+    &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;{{ site.baseurl }}/blog/categories/{{ category_name }}&quot;&gt;{{ category_name }}&lt;/a&gt;&lt;/h4&gt;
+    &lt;a name=&quot;{{ category_name | slugize }}&quot;&gt;&lt;/a&gt;
+     {% for post in site.categories[category_name] %}
+    &lt;article class=&quot;center&quot;&gt;
+      &lt;h6 &gt;&lt;a href=&quot;{{ site.baseurl }}{{ post.url }}&quot;&gt;{{post.title}}&lt;/a&gt;&lt;/h6&gt;
+    &lt;/article&gt;
+
+
+    {% endfor %}
+
+  &lt;/div&gt;
+{% endfor %}
+&lt;/div&gt;
+
+
+</description>
+            <link>https://gospel306.github.io/blog/categories/</link>
+          </item>
+        
+      
+    
+      
+    
+      
+        
+          <item>
+            <title>django</title>
+            <description>&lt;h5&gt; Posts by Category : {{ page.title }} &lt;/h5&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+{% for post in site.categories[page.title] %}
+ &lt;li class=&quot;category-posts&quot;&gt;&lt;span&gt;{{ post.date | date_to_string }}&lt;/span&gt; &amp;nbsp; &lt;a href=&quot;{{ post.url }}&quot;&gt;{{ post.title }}&lt;/a&gt;&lt;/li&gt;
+{% endfor %}
+&lt;/div&gt;
+</description>
+            <link>https://gospel306.github.io/blog/categories/django/</link>
+          </item>
+        
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        
+          <item>
+            <title>Get Started</title>
+            <description>## Getting Started - How to use “devlopr-jekyll” theme
+
+## What's Jekyll ?
+
+If you aren’t familiar with Jekyll yet, you should know that it is a static site generator. It will transform your plain text into static websites and blogs. No more databases, slow loading websites, risk of being hacked…just your content. And not only that, with Jekyll you get free hosting with GitHub Pages! If you are a beginner we recommend you start with [Jekyll’s Docs](https://jekyllrb.com/docs/installation/). Now, if you know how to use Jekyll, let’s move on to using this theme in Jekyll:
+
+## Watch Tutorial
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/cXBEfpn0qrg?rel=0&amp;amp;controls=0&amp;amp;showinfo=0&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+### Steps to create your blog using devlopr-jekyll and Host using Github Pages :
+
+&gt;  **Step 1.**  Fork the repo - [click here](https://github.com/sujaykundu777/devlopr-jekyll/fork)
+
+![Devlopr Jekyll Repo](/assets/img/posts/fork1.png){:class=&quot;img-fluid&quot;}
+
+&gt; **Step 2.** Use **your-github-username.github.io** as the new repo  ( Replace your-github-username with yours). Remember if you use the name other than your-github-username.github.io , your blog will be built using gh-pages branch.
+
+![Devlopr Jekyll Repo](/assets/img/posts/fork2.png){:class=&quot;img-fluid&quot;}
+
+![Devlopr Jekyll Repo](/assets/img/posts/fork3.png){:class=&quot;img-fluid&quot;}
+
+&gt; **Step 3.** Clone the new repo locally to make changes :
+
+![Devlopr Jekyll Repo](/assets/img/posts/fork31.png){:class=&quot;img-fluid&quot;}
+
+![Devlopr Jekyll Repo](/assets/img/posts/fork32.png){:class=&quot;img-fluid&quot;}
+
+![Devlopr Jekyll Repo](/assets/img/posts/fork33.png){:class=&quot;img-fluid&quot;}
+
+```bash
+ $ git clone https://github.com/yourusername/yourusername.github.io
+ $ cd yourusername.github.io
+ $ code .
+```
+
+&gt; **Step 4.** Open the files using VSCode and edit _config.yml and edit with your details:
+
+- _config.yml file - replace with your own details
+- _posts - Add your blog posts here
+- _includes - You can replace the contents of the files with your data. (contains widgets)
+- _assets/img - Add all your images here
+
+![Devlopr Jekyll Repo](/assets/img/posts/fork34.png){:class=&quot;img-fluid&quot;}
+
+&gt; **Step 5** - Install the development requirements:
+
+### Set up local development environment
+
+1. [Git](https://git-scm.com/)
+2. [Ruby](https://www.ruby-lang.org/) and [Bundler](https://bundler.io/)
+3. [VSCode](https://code.visualstudio.com/download)
+
+We need ruby and bundler to build our site locally. After installation check if its working:
+
+For ruby :
+
+```bash
+$ ruby -v
+ruby 2.5.1p57 (2018-03-29 revision 63029) [x86_64-linux-gnu]
+```
+For bundler :
+
+```bash
+$ gem install bundler
+$ bundler -v
+Bundler version 2.2.6
+```
+Add jekyll :
+
+```bash
+$ bundle add jekyll
+```
+ This command will add the Jekyll gem to our Gemfile and install it to the ./vendor/bundle/ folder.
+
+You can check the jekyll version
+
+```
+$ bundle exec jekyll -v
+jekyll 4.2.0
+```
+
+&gt; **Step 6.** Install the gem dependencies by running the following command
+
+```bash
+$ bundle update
+$ bundle install
+```
+
+&gt; **Step 7.** Serve the site locally by running the following command below:
+
+```bash
+$ bundle exec jekyll serve --watch
+```
+or you can also serve using :
+
+```bash
+$ jekyll serve
+```
+
+Visit [http://localhost:4000](http://localhost:4000) for development server
+
+![Devlopr Jekyll Repo](/assets/img/posts/fork4.png){:class=&quot;img-fluid&quot;}
+
+![Devlopr Jekyll Repo](/assets/img/posts/fork41.png){:class=&quot;img-fluid&quot;}
+
+### Adding Content
+
+Start populating your blog by adding your .md files in _posts. devlopr-jekyll already has a few examples.
+
+#### YAML Post Example:
+
+```yml
+---
+layout: post
+title: Sample Post
+author: Sujay Kundu
+date: '2019-05-21 14:35:23 +0530'
+category:
+        - jekyll
+summary: This is the summary for the sample post
+thumbnail: sample.png
+---
+
+Hi ! This is sample post.
+
+```
+
+#### YAML Page Example:
+
+```yml
+---
+layout: page
+title: Sample Page
+menus: header
+permalink: /sample-page/
+---
+
+Hi ! This is sample page.
+```
+
+#### Editing stylesheet
+
+You’ll only work with a single file to edit/add theme style: assets/css/main.scss.
+
+### Deploy your Changes
+
+Once happy with your blog changes. Push your changes to master branch.
+
+&gt; **Step 8.** Push Your Local Changes
+
+```bash
+ $ git add .
+ $ git commit -m &quot;my new blog using devlopr-jekyll&quot;
+ $ git push origin master
+```
+
+Visit your Github Repo settings ! Enable master branch as Github Pages Branch :
+
+![Devlopr Jekyll Repo](/assets/img/posts/fork6.png){:class=&quot;img-fluid&quot;}
+
+&gt; **Step 9.** Deploy your Blog :
+
+![Devlopr Jekyll Repo](/assets/img/posts/fork7.png){:class=&quot;img-fluid&quot;}
+
+&gt; Congrats ! On your new shining Blog !
+
+You can visit the blog using [http://your-github-username.github.io](http://your-github-username.github.io).
+
+</description>
+            <link>https://gospel306.github.io/get-started/</link>
+          </item>
+        
+      
+    
+      
+        
+          <item>
+            <title>java</title>
+            <description>&lt;h5&gt; Posts by Category : {{ page.title }} &lt;/h5&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+{% for post in site.categories[page.title] %}
+ &lt;li class=&quot;category-posts&quot;&gt;&lt;span&gt;{{ post.date | date_to_string }}&lt;/span&gt; &amp;nbsp; &lt;a href=&quot;{{ post.url }}&quot;&gt;{{ post.title }}&lt;/a&gt;&lt;/li&gt;
+{% endfor %}
+&lt;/div&gt;
+</description>
+            <link>https://gospel306.github.io/categories/java/</link>
+          </item>
+        
+      
+    
+      
+        
+          <item>
+            <title>life</title>
+            <description>&lt;h5&gt; Posts by Category : {{ page.title }} &lt;/h5&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+{% for post in site.categories[page.title] %}
+ &lt;li class=&quot;category-posts&quot;&gt;&lt;span&gt;{{ post.date | date_to_string }}&lt;/span&gt; &amp;nbsp; &lt;a href=&quot;{{ post.url }}&quot;&gt;{{ post.title }}&lt;/a&gt;&lt;/li&gt;
+{% endfor %}
+&lt;/div&gt;</description>
+            <link>https://gospel306.github.io/blog/categories/life/</link>
+          </item>
+        
+      
+    
+      
+    
+      
+    
+      
+        
+          <item>
+            <title>python</title>
+            <description>&lt;h5&gt; Posts by Category : {{ page.title }} &lt;/h5&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+{% for post in site.categories[page.title] %}
+ &lt;li class=&quot;category-posts&quot;&gt;&lt;span&gt;{{ post.date | date_to_string }}&lt;/span&gt; &amp;nbsp; &lt;a href=&quot;{{ post.url }}&quot;&gt;{{ post.title }}&lt;/a&gt;&lt;/li&gt;
+{% endfor %}
+&lt;/div&gt;
+</description>
+            <link>https://gospel306.github.io/blog/categories/python/</link>
+          </item>
+        
+      
+    
+      
+    
+      
+    
+      
+        
+          <item>
+            <title>Our Sponsors</title>
+            <description>Thanks to all the amazing contributors and our Backers for the support.
+
+- [Dirish Mohan](https://dirishmohan.com)</description>
+            <link>https://gospel306.github.io/sponsors/</link>
+          </item>
+        
+      
+    
+      
+        
+          <item>
+            <title>spring</title>
+            <description>&lt;h5&gt; Posts by Category : {{ page.title }} &lt;/h5&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+{% for post in site.categories[page.title] %}
+ &lt;li class=&quot;category-posts&quot;&gt;&lt;span&gt;{{ post.date | date_to_string }}&lt;/span&gt; &amp;nbsp; &lt;a href=&quot;{{ post.url }}&quot;&gt;{{ post.title }}&lt;/a&gt;&lt;/li&gt;
+{% endfor %}
+&lt;/div&gt;
+</description>
+            <link>https://gospel306.github.io/blog/categories/spring/</link>
+          </item>
+        
+      
+    
+      
+        
+          <item>
+            <title>sql</title>
+            <description>&lt;h5&gt; Posts by Category : {{ page.title }} &lt;/h5&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+{% for post in site.categories[page.title] %}
+ &lt;li class=&quot;category-posts&quot;&gt;&lt;span&gt;{{ post.date | date_to_string }}&lt;/span&gt; &amp;nbsp; &lt;a href=&quot;{{ post.url }}&quot;&gt;{{ post.title }}&lt;/a&gt;&lt;/li&gt;
+{% endfor %}
+&lt;/div&gt;
+</description>
+            <link>https://gospel306.github.io/blog/categories/sql/</link>
+          </item>
+        
+      
+    
+      
+        
+          <item>
+            <title>Styleguide</title>
+            <description>### devlopr - Styleguide
+
+&lt;hr /&gt;
+
+ &lt;img src=&quot;/assets/img/styleguide.png&quot; class=&quot;img-fluid&quot;&gt;
+
+&lt;p&gt; Lets try the different text styles  &lt;b&gt; Bold &lt;/b&gt; , &lt;strong&gt; Strong &lt;/strong&gt;, &lt;em&gt; Emphasis &lt;/em&gt;, &lt;i&gt; Italic &lt;/i&gt; &lt;/p&gt;
+
+
+&lt;p&gt; Now, lets try different heading styles : &lt;/p&gt;
+
+&lt;h1&gt; Hello in h1 ! &lt;/h1&gt;
+&lt;h2&gt; Hello in h2 ! &lt;/h2&gt;
+&lt;h3&gt; Hello in h3 ! &lt;/h3&gt;
+&lt;h4&gt; Hello in h4 ! &lt;/h4&gt;
+&lt;h5&gt; Hello in h5 ! &lt;/h5&gt;
+&lt;h6&gt; Hello in h6 ! &lt;/h6&gt;
+
+&lt;hr /&gt;
+&lt;p&gt; Unordered List &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt; List Item 1 &lt;/li&gt;
+&lt;li&gt; List Item 2 &lt;/li&gt;
+&lt;li&gt; List Item 3 &lt;/li&gt;
+&lt;li&gt; List Item 4 &lt;/li&gt;
+&lt;li&gt; List Item 5 &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt; Ordered List &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt; List Item 1 &lt;/li&gt;
+&lt;li&gt; List Item 2 &lt;/li&gt;
+&lt;li&gt; List Item 3 &lt;/li&gt;
+&lt;li&gt; List Item 4 &lt;/li&gt;
+&lt;li&gt; List Item 5 &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;This is a Block Quote,  It can Expand Multiple Lines &lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+&lt;p&gt;You can use the mark tag to &lt;mark&gt;highlight&lt;/mark&gt; text. &lt;/p&gt;
+
+&lt;p&gt;&lt;del&gt; This line of text is meant to be deleted text &lt;/del&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;This line of text will render as underlined&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;This line of text is meant to be treated as fine print.&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This line rendered as bold text.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This line rendered as italicized text.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;abbr title=&quot;attribute&quot;&gt;attr&lt;/abbr&gt;&lt;/p&gt;
+&lt;p&gt;&lt;abbr title=&quot;HyperText Markup Language&quot; class=&quot;initialism&quot;&gt;HTML&lt;/abbr&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;div class=&quot;responsive-table&quot;&gt;
+&lt;table&gt;
+      &lt;thead&gt;
+        &lt;tr&gt;
+          &lt;th scope=&quot;col&quot;&gt;#&lt;/th&gt;
+          &lt;th scope=&quot;col&quot;&gt;Heading&lt;/th&gt;
+          &lt;th scope=&quot;col&quot;&gt;Heading&lt;/th&gt;
+          &lt;th scope=&quot;col&quot;&gt;Heading&lt;/th&gt;
+          &lt;th scope=&quot;col&quot;&gt;Heading&lt;/th&gt;
+          &lt;th scope=&quot;col&quot;&gt;Heading&lt;/th&gt;
+          &lt;th scope=&quot;col&quot;&gt;Heading&lt;/th&gt;
+          &lt;th scope=&quot;col&quot;&gt;Heading&lt;/th&gt;
+          &lt;th scope=&quot;col&quot;&gt;Heading&lt;/th&gt;
+          &lt;th scope=&quot;col&quot;&gt;Heading&lt;/th&gt;
+        &lt;/tr&gt;
+      &lt;/thead&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;th scope=&quot;row&quot;&gt;1&lt;/th&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;th scope=&quot;row&quot;&gt;2&lt;/th&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;th scope=&quot;row&quot;&gt;3&lt;/th&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+    &lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h3&gt; Instagram Embed &lt;/h3&gt;
+
+&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned data-instgrm-permalink=&quot;https://www.instagram.com/p/CBXO7AypXkM/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; data-instgrm-version=&quot;13&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:16px;&quot;&gt; &lt;a href=&quot;https://www.instagram.com/p/CBXO7AypXkM/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; style=&quot; background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;&quot; target=&quot;_blank&quot;&gt; &lt;div style=&quot; display: flex; flex-direction: row; align-items: center;&quot;&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: column; flex-grow: 1; justify-content: center;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;padding: 19% 0;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display:block; height:50px; margin:0 auto 12px; width:50px;&quot;&gt;&lt;svg width=&quot;50px&quot; height=&quot;50px&quot; viewBox=&quot;0 0 60 60&quot; version=&quot;1.1&quot; xmlns=&quot;https://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;https://www.w3.org/1999/xlink&quot;&gt;&lt;g stroke=&quot;none&quot; stroke-width=&quot;1&quot; fill=&quot;none&quot; fill-rule=&quot;evenodd&quot;&gt;&lt;g transform=&quot;translate(-511.000000, -20.000000)&quot; fill=&quot;#000000&quot;&gt;&lt;g&gt;&lt;path d=&quot;M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/div&gt;&lt;div style=&quot;padding-top: 8px;&quot;&gt; &lt;div style=&quot; color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;&quot;&gt; View this post on Instagram&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;padding: 12.5% 0;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;&quot;&gt;&lt;div&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot;background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;margin-left: 8px;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;margin-left: auto;&quot;&gt; &lt;div style=&quot; width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot; width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;&lt;a href=&quot;https://www.instagram.com/p/CBXO7AypXkM/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;&quot; target=&quot;_blank&quot;&gt;A post shared by Sujay (@sujaykundu777)&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt; &lt;script async src=&quot;//www.instagram.com/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;hr&gt;
+
+&lt;h3&gt; Twitter Embed &lt;/h3&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;I just published “Deploying a blog using Jekyll and Github Pages with SSL certificate for Free” &lt;a href=&quot;https://t.co/B3T3IQVU93&quot;&gt;https://t.co/B3T3IQVU93&lt;/a&gt;&lt;/p&gt;&amp;mdash; Sujay Kundu (@SujayKundu777) &lt;a href=&quot;https://twitter.com/SujayKundu777/status/1012601950469160962?ref_src=twsrc%5Etfw&quot;&gt;June 29, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;hr /&gt;
+
+
+&lt;h3&gt;YouTube Responsive Embed&lt;/h3&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/bBpKMH3nBzE?rel=0&amp;amp;controls=0&amp;amp;showinfo=0&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;h3&gt;Vimeo Responsive Embed&lt;/h3&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/212114694?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;ted-responsive-embed&quot;&gt;TED Responsive Embed&lt;/h3&gt;
+
+&lt;iframe src=&quot;https://embed.ted.com/talks/ted_halstead_a_climate_solution_where_all_sides_can_win&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;twitch-responsive-embed&quot;&gt;Twitch Responsive Embed&lt;/h3&gt;
+
+&lt;iframe src=&quot;https://player.twitch.tv/?autoplay=false&amp;amp;video=v248755437&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot; scrolling=&quot;no&quot; height=&quot;378&quot; width=&quot;620&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;soundcloud-embed&quot;&gt;SoundCloud Embed&lt;/h3&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/29738591&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;codepen-embed&quot;&gt;CodePen Embed&lt;/h3&gt;
+
+&lt;p data-height=&quot;265&quot; data-theme-id=&quot;light&quot; data-slug-hash=&quot;YWvpRo&quot; data-default-tab=&quot;css,result&quot; data-user=&quot;kharrop&quot; data-embed-version=&quot;2&quot; data-pen-title=&quot;Referral Form&quot; class=&quot;codepen&quot;&gt;&lt;/p&gt;
+&lt;script async=&quot;&quot; src=&quot;https://production-assets.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;syntax-highlighting&quot;&gt;Syntax Highlighting&lt;/h3&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;s1&quot;&gt;'use strict'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;markdown&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'markdown'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;markdown&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Editor&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;input&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;preview&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;update&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;preview&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;innerHTML&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;markdown&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;toHTML&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;input&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+  &lt;span class=&quot;nx&quot;&gt;input&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;editor&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;update&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;You can add inline code just like this, E.g. &lt;code class=&quot;highlighter-rouge&quot;&gt;.code { color: #fff; }&lt;/code&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;nt&quot;&gt;pre&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;nl&quot;&gt;background-color&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;#f4f4f4&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;nl&quot;&gt;max-width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;nl&quot;&gt;overflow&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;auto&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;github-gist-embed&quot;&gt;GitHub gist Embed&lt;/h3&gt;
+
+&lt;script src=&quot;https://gist.github.com/ahmadajmi/dbb4f713317721668bcbc39420562afc.js&quot;&gt;&lt;/script&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;input-style&quot;&gt;Input Style&lt;/h3&gt;
+
+&lt;p&gt;&lt;input type=&quot;text&quot; placeholder=&quot;I'm an input field!&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+
+</description>
+            <link>https://gospel306.github.io/styleguide/</link>
+          </item>
+        
+      
+    
+      
+        
+          <item>
+            <title>요구사항확인</title>
+            <description>&lt;h5&gt; Posts by Category : {{ page.title }} &lt;/h5&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+{% for post in site.categories[page.title] %}
+ &lt;li class=&quot;category-posts&quot;&gt;&lt;span&gt;{{ post.date | date_to_string }}&lt;/span&gt; &amp;nbsp; &lt;a href=&quot;{{ post.url }}&quot;&gt;{{ post.title }}&lt;/a&gt;&lt;/li&gt;
+{% endfor %}
+&lt;/div&gt;</description>
+            <link>https://gospel306.github.io/blog/categories/요구사항확인</link>
+          </item>
+        
+      
+    
+      
+        
+          <item>
+            <title>정보처리기사</title>
+            <description>&lt;h5&gt; Posts by Category : {{ page.title }} &lt;/h5&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+{% for post in site.categories[page.title] %}
+ &lt;li class=&quot;category-posts&quot;&gt;&lt;span&gt;{{ post.date | date_to_string }}&lt;/span&gt; &amp;nbsp; &lt;a href=&quot;{{ post.url }}&quot;&gt;{{ post.title }}&lt;/a&gt;&lt;/li&gt;
+{% endfor %}
+&lt;/div&gt;
+</description>
+            <link>https://gospel306.github.io/blog/categories/정보처리기사/</link>
+          </item>
+        
+      
+    
+      
+    
+
+  </channel>
+</rss>
